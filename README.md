@@ -18,11 +18,18 @@ Technologies I've been learning and using so far :
 ![C# Badge](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=C%23&logoColor=white)
 ![Matlab Badge](https://img.shields.io/badge/-Matlab-blue?style=flat-square&logo=Matlab&logoColor=white)
 
-* Machine Learning / Deep Learning frameworks :
-Scikit-learn, Jupyter Notebook
+* Machine Learning / Deep Learning frameworks :   
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit--learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=jupyter&logoColor=white)
 
-* Backend :
-Docker, PostGresSQL, Oracle and SQLServer
+* Backend :   
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=Docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-F80000?style=flat-square&logo=SQLServer&logoColor=white)
 
-* OS & IDE & Tools :
-  VS Code, Git and SVN
+* OS & IDE & Tools :   
+  ![Git](https://img.shields.io/badge/git-%23F05033?style=flat-square&logo=Git&logoColor=white)
+  ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+  SVN Tortoise
