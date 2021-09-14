@@ -19,10 +19,10 @@ Technologies I've been learning and using so far :
 ![Matlab Badge](https://img.shields.io/badge/-Matlab-blue?style=flat-square&logo=Matlab&logoColor=white)
 
 * Machine Learning / Deep Learning frameworks :
-Scikit-learn Jupyter Notebook
+Scikit-learn, Jupyter Notebook
 
 * Backend :
-Docker PostGresSQL Oracle SQLServer
+Docker, PostGresSQL, Oracle and SQLServer
 
 * OS & IDE & Tools :
-  VS Code Git SVN
+  VS Code, Git and SVN
